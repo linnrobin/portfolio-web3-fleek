@@ -4,7 +4,7 @@ import profile from '../assets/profile.jpeg';
 const Header = () => {
     return (
         <section className='header'>
-            <img src={profile} alt="John Doe" />
+            <img src={profile} alt="Robin Widjaja" />
 
             <div className='header__content'>
                 <h1>Hi, I'm Robin Widjaja</h1>
